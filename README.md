@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Dave Stach. Software engineer and music industry professional.](/public/header.png)
 <!--
 **d4vves/d4vves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
