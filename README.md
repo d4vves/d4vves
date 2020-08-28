@@ -2,4 +2,4 @@
 
 [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=d4vves&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4vves&repo=garbage-boy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# I'm Dave.
